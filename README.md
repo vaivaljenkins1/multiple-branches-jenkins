@@ -11,20 +11,7 @@ dasdjaskgdasgdaasdasdas
 
 # multiple-branches-jenkins
 
-This is read me file created by omer 
-
-build create when comit
-
-Polling has not run dsadasdyet.
-
-dasdjaskgdasgdaasdasdas
-
-
-sdasdasdas
-
-
-
-
+build no 12 
 
 
 
