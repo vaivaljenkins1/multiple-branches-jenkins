@@ -15,7 +15,7 @@ This is read me file created by omer
 
 build create when comit
 
-Polling has not run yet.
+Polling has not run dsadasdyet.
 
 dasdjaskgdasgdaasdasdas
 
